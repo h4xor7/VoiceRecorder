@@ -1,0 +1,11 @@
+
+o	java:S116-"ZRename this field "PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÌ™ï
+f
+java:S1301Y"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+?
+java:S1148¶"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+<	java:S131Y""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+k
+java:S1450&"VRemove the "listBtn" field and declare it as a local variable in the relevant methods.(†ÿ±]
+n
+java:S3252¿"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ï³¾£
